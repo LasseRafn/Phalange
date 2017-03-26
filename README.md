@@ -1,5 +1,5 @@
 <p align="center" style="text-align: center;">
-<a href="http://lasserafn.github.io/phalange/"><img src="https://cdn.rawgit.com/LasseRafn/phalange/34b626b0/logo.svg" width="346" height="52" alt="Phalange Logo" /></a>
+<a href="http://lasserafn.github.io/phalange/"><img src="https://cdn.rawgit.com/LasseRafn/Phalange/1976e25f/logo.svg" width="346" height="52" alt="Phalange Logo" /></a>
 </p>
 
 <p align="center" style="text-align: center;">
