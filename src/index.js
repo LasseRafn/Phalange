@@ -49,6 +49,8 @@ class ErrorBag {
 }
 
 
+
+
 class Phalange {
 	constructor(url, fields, options) {
 		this.options = options || {};
