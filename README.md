@@ -128,11 +128,11 @@ The `Phalange` class is the core of Phalange and the class you'll be using.
 | `resetOnSuccess` | boolean | Determines if form fields should be cleared on success. | false | false |
 | `headers` | object | Adds custom headers to each request | false | `{}` |
 
-##### `url` [REQUIRED]
+##### `url`
 
 The `url` parameter is the first of three parameters, and it defines which url to send requests to upon submitting. It can be an absolute or relative url, such as: `/submit` or `https://your-site.com/send`.
 
-##### `fields` [REQUIRED]
+##### `fields`
 
 The fields that you have in the form. Should be an object of keys with a value (the default input value)
 
