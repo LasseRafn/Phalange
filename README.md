@@ -165,7 +165,7 @@ Want client-side validation? Try **FormSpine**?
 
 It's a larger version of Phalange, with a Validation library. It's almost the same API, but with more functionality.
 
-[Get FormSpine here](#) <-- COMING SOON
+[Get FormSpine here](https://github.com/LasseRafn/FormSpine) <-- COMING SOON
 
 ------------------------------------------------
 
