@@ -125,7 +125,6 @@ The `Phalange` class is the core of Phalange and the class you'll be using.
 
 | Name | Type | Description | Required | Default |
 | ---- |----- | ----------- |--------- | ------- |
-| `messages` | object | Custom error validation messages. | false | `{}` |
 | `resetOnSuccess` | boolean | Determines if form fields should be cleared on success. | false | false |
 | `headers` | object | Adds custom headers to each request | false | `{}` |
 
@@ -165,15 +164,11 @@ Want client-side validation? Try **FormSpine**?
 
 It's a larger version of Phalange, with a Validation library. It's almost the same API, but with more functionality.
 
-[Get FormSpine here](https://github.com/LasseRafn/FormSpine) <-- COMING SOON
+[Get FormSpine here](https://github.com/LasseRafn/FormSpine)
 
 ------------------------------------------------
 
 ## Inspiration
-I found myself creating similar classes for every new project I started, so I felt it was time to combine everything into a single class that I could use for almost all my projects. Of cause, in the nature of sharing, I decided to open source it.
-
-Phalange is inspired heavily on [laracasts/vue-forms](https://github.com/laracasts/Vue-Forms)
-
-If you're into learning, you should really go signup at [Laracasts](https://laracasts.com)
+Basically I figured that sometimes, client-side validation is not necessary, so to save bytes I decided to make Phalange; a smaller version of FormSpine.
 
 Build scripts (and more) are heavily based on [developit/unfetch](https://github.com/developit/unfetch). 
